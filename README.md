@@ -1,7 +1,7 @@
 # CI Helper Load CSS and JS
 This is simple helper to help you generated css and js loader via contoller into your view. 
 
-## Instalation
+### Installation
 - First, copy and paste the all of function in file my_helper.php to your helper. You can merge with your helper previously or create a new helper.
 - Second, put this code to your view (you can place it in your header.php or footer.php) 
 ```html
@@ -21,7 +21,7 @@ This is simple helper to help you generated css and js loader via contoller into
     }
 ```
 
-## Output
+### Output
 Output in your view will be like this
 ```html
     <!-- custom css and js-->
